@@ -1,4 +1,4 @@
-application: tghwputty
+application: BTC Faucet
 version: 1
 runtime: python27
 threadsafe: yes
